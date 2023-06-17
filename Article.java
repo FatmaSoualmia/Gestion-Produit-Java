@@ -166,21 +166,4 @@ public class Article {
 	public int getQuantity() {
 		return this.quantity;
 	}
-	
-
 }
-
-
-
-
-
-
-/*
- +++++ i need to do a check over inputs ++++++
- encapsulation for sensitive data
-*/
-
-
-//things to add : don't add redundent articles
-//when we add the same article we add it to the quantity , the reference is the field that makes the difference
-//
